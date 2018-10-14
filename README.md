@@ -5,7 +5,6 @@
 
  后台管理系统采用iview实现，Web Service采用python框架Django实现。
 
-## Build Setup
 
 ``` bash
 # install dependencies
